@@ -1,12 +1,12 @@
 1. Login to the AWS Academy Learner Lab and start lab.
 
 2. Download and unzip the Git repository.
-- https://github.com/kevinbayliss/cloudformation-demo
+- https://github.com/TUDublin-Git/cloudformation-demo
 
 3. Create and open a Cloud9 environment with a Secure Shell (SSH) connection type.
 
 4. Clone the Git repository.
-- git clone https://github.com/kevinbayliss/cloudformation-demo
+- git clone https://github.com/TUDublin-Git/cloudformation-demo
 
 5. Create an EC2 instance through CloudFormation on the AWS console.
 - cloudformation-demo-main\demo_cf_01\template.yaml
@@ -57,5 +57,6 @@
 22. Close and delete the Cloud9 environment.
 
 23. Remove the SSH access rule from the default security group.
+
 
 24. End Lab and logout of the AWS Academy Learner Lab.
